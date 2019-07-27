@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     print("counter pressed");
 
-    HttpClient().request();
+    // HttpClient().request();
   }
 
   @override
